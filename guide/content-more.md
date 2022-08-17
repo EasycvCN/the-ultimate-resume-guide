@@ -122,3 +122,15 @@ description: 简历的更多内容
 * **公司内部分享：[ESBuild 傻瓜入门指南](https://easycv.cn)**
 
 * **在 2020 JSConf 中的分享：[Node.js 线上环境最佳实践](https://easycv.cn)**
+
+#### 优秀简历范本参考
+
+[简单简历](https://easycv.cn/examples) 提供了一系列优质的简历范本，符合上面描述的一些要求，包含了多个程序员的热门岗位，可以点击下面的链接做一个参考：
+
+* [高级前端开发工程师](https://r.easycv.cn/seniorFE)
+* [应届生前端开发（零工作经验）](https://r.easycv.cn/graduates)
+* [Java 开发工程师](https://r.easycv.cn/java)
+* [Golang 开发工程师](https://r.easycv.cn/golang)
+* [iOS 开发工程师](https://r.easycv.cn/ios)
+* [Devops 工程师](https://r.easycv.cn/devops)
+* [高级软件测试工程师](https://r.easycv.cn/tester)
