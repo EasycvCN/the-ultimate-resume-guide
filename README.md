@@ -6,7 +6,7 @@
 
 <p align="center">
   <a target="_blank" href="https://easycv.cn/">
-    <img alt="sponsors" src="../images/logo.png">
+    <img alt="sponsors" src="https://raw.githubusercontent.com/EasycvCN/the-ultimate-resume-guide/main/images/logo.png">
   </a>
 </p>
 
